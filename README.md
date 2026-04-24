@@ -185,7 +185,7 @@ Contributions are always welcome! If you want to help improve the project, follo
 
 ## 📄 License
 
-This project is licensed under the **MIT** License. See the `package.json` file for more details or add a `LICENSE` file to the repository.
+This project is licensed under the **MIT** License. See the `LICENSE` file for more informations.
 
 ---
 
